@@ -15,7 +15,7 @@ Application mobile simple pour enregistrer des tâches.
 
 - **Flutter**
 - **Dart**
-- Firebase (Auth, Firestore, Storage)
+- SqfLite
 - Provider
 
 ---
