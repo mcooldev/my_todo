@@ -1,16 +1,27 @@
-# my_todo
+# 📱 My Todo
 
-Task app.
+Application mobile simple pour enregistrer des tâches.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fonctionnalités
 
-A few resources to get you started if this is your first Flutter project:
+- 📋 CRUD (ajout, modification, suppression)
+- 📱 Compatible Android / iOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies utilisées
+
+- **Flutter**
+- **Dart**
+- Firebase (Auth, Firestore, Storage)
+- Provider
+
+---
+
+## ⚙️ Installation
+
+1. Cloner le dépôt :
+```bash
+
