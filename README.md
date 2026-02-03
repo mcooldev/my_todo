@@ -24,4 +24,4 @@ Application mobile simple pour enregistrer des tâches.
 
 1. Cloner le dépôt :
 ```bash
-
+https://github.com/mcooldev/my_todo.git
